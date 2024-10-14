@@ -5,24 +5,16 @@
 <strong>Sobre mim</strong>
 <ul>
   <li>💼 Fullstack Dev para o Grupo Mallard</li>
-  <li>📈 Trabalho hoje majoritariamente com sistemas de Back-end Python/Javascript e Front-end HTML/CSS</li>
-  <li>🎓 Tenho também alguma experiência em Java devido ao meu curso</li>
+  <li>📈 Trabalho hoje majoritariamente com desenvolvimento de sistemas Back-end Python/Javascript e com monitoramento e integração com Front-end HTML/CSS</li>
+  <li>🎓 Tenho também experiência em Java devido a trabalhos e projetos durante o tempo de curso</li>
 </ul>
 
-<br />
-
-<div style="display: inline_block; padding-top: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeljlima&layout=donut&langs_count=7&theme=dracula"/>
-</div>
-
-<br />
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
