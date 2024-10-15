@@ -2,7 +2,7 @@
 
 <br />
 
-<strong>Sobre mim</strong>
+<strong>Sobre mim:</strong>
 - 💼 **Desenvolvedor de sistemas** para o Grupo Mallard
 - 📈 Trabalho majoritariamente com **desenvolvimento de sistemas Back-end** (Python/JavaScript)
 - 🔍 Também trabalho com **monitoramento e integração com Front-end** (HTML/CSS)
