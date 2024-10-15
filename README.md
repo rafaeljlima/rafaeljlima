@@ -10,7 +10,7 @@
 
 ##
 
-![Top Langs](https://github-readme-stats-pink-one-95.vercel.app/api/top-langs/?username=rafaeljlima&layout=compact)
+![Top Langs](https://github-readme-stats-git-master-rafaeljlimas-projects.vercel.app/api/top-langs/?username=rafaeljlima&layout=compact)
 
 
 <div style="display: inline_block"><br>
