@@ -5,7 +5,7 @@
 <strong>Sobre mim</strong>
 - 💼 **Desenvolvedor de sistemas** para o Grupo Mallard
 - 📈 Trabalho majoritariamente com **desenvolvimento de sistemas Back-end** (Python/JavaScript)
-- 🔍 Também trabalho com **monitoramento e integração com Front-end** (HTML/CSS) nos meus sistemas
+- 🔍 Também trabalho com **monitoramento e integração com Front-end** (HTML/CSS)
 - 🎓 Experiência em **Java** devido a trabalhos e projetos acadêmicos
             <img align="right" alt="Anime wave gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQ4MGNja2c0c3UxcGV2NDBjeTIyeGdsdXo1OTg4cjQ4YTUxanN2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5lAtcHWPAYFdS/giphy.gif" width="200"/>
             
