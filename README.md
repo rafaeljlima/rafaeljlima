@@ -11,7 +11,6 @@
             
 ##
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaeljlima&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-git-master-rafaeljlimas-projects.vercel.app/api/top-langs/?username=rafaeljlima&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
