@@ -3,11 +3,15 @@
 <br />
 
 <strong>Sobre mim</strong>
-<ul>
-  <li>💼 Fullstack Dev para o Grupo Mallard</li>
-  <li>📈 Trabalho hoje majoritariamente com desenvolvimento de sistemas Back-end Python/Javascript e com monitoramento e integração com Front-end HTML/CSS</li>
-  <li>🎓 Tenho também experiência em Java devido a trabalhos e projetos durante o tempo de curso</li>
-</ul>
+- 💼 **Desenvolvedor de sistemas** para o Grupo Mallard
+- 📈 Trabalho majoritariamente com **desenvolvimento de sistemas Back-end** (Python/JavaScript)
+- 🔍 Também trabalho com **monitoramento e integração com Front-end** (HTML/CSS) nos meus sistemas
+- 🎓 Experiência em **Java** devido a projetos acadêmicos e profissionais
+
+##
+
+![Top Langs](https://github-readme-stats-pink-one-95.vercel.app/api/top-langs/?username=rafaeljlima&layout=compact)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
